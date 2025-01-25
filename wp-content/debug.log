@@ -1,0 +1,2 @@
+[25-Jan-2025 10:05:54 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[25-Jan-2025 10:06:36 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\wamp64\www\OrderNote\wp-content\plugins\wappbiz\wappbiz-woocommerce-integration.php on line 288
